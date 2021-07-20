@@ -12,7 +12,7 @@ import re
 # имя БД 
 db_name = "desc.db"
 # пользователь для подключения по ssh
-usr = 'ivc'
+usr = 'someuser'
 # пароль для подключения по ssh
 pwd = open('pwd.txt', 'r').read()
 # порт для подключения по ssh
